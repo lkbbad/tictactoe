@@ -111,10 +111,12 @@ def play_game():
             else: continue
         
     if (won == False):
+        print_board(board)
         print("\nGame Over.\n", flush=True)                
         print("\nIt's a Tie!\n", flush=True)
         time.sleep(1.0)
     
+    # Input to play again: 
     # print("Play again? Y or N: ", flush=True)
     # time.sleep(1.0)
 
