@@ -3,7 +3,7 @@ Python Homework Assignment #2, Institute for Advanced Analytics <br>
 Professor Christopher Healey <br>
 https://www.csc2.ncsu.edu/faculty/healey/msa/python/assn-tictactoe/ <br>
 September 13, 2021 <br>
-Code Author: Lindy Bustabad <br>
+Author: Lindy Bustabad <br>
 
 Python program that tracks the state of an ongoing tic-tac-toe game. Program allows each player to choose the position they want to place their piece. <br>
 
